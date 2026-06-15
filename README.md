@@ -31,9 +31,18 @@ Key Topics:
 - Exploitation
 - Penetration Testing
 
+### Defensive Security Intro
+Status: Complete ✅
+
+Key Topics:
+- Security Operations Center (SOC)
+- Threat Intelligence
+- Digital Forensics
+- Incident Response
+- SIEM
+
 ## Upcoming Modules
 
-- Defensive Security Intro
 - Careers in Cyber
 - Networking Fundamentals
 - Linux Fundamentals
