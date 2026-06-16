@@ -20,7 +20,7 @@ I recently earned my Bachelor's Degree in Cybersecurity and am actively developi
 
 ## Completed Modules
 
-### July 2026
+### June 2026
 
 #### Offensive Security Intro
 Status: Complete ✅
@@ -40,6 +40,9 @@ Key Topics:
 - Digital Forensics
 - Incident Response
 - SIEM
+
+See:
+- Day1_Training_Notes.md  
 
 ## Upcoming Modules
 
