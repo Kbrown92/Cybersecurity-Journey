@@ -42,9 +42,26 @@ Key Topics:
 - SIEM
 
 See:
-- Day1_Training_Notes.md  
+- Day1_Training_Notes.md
 
-## Upcoming Modules
+
+  ### Careers in Cyber
+  Status: Complete ✅
+  - Security Analyst
+  - Security Engineers
+  - Incident Responders
+  - Digital Forensics Examiner
+  - Malware Analyst
+  - Penetration Tester
+  - Red Teamers
+
+  ### What is Networking?
+  Status: Complete ✅
+  -IP Address 
+  -Media Access Control (MAC)
+  -Ping (ping 10.10.10.10)
+
+  ## Upcoming Modules
 
 - Careers in Cyber
 - Networking Fundamentals
